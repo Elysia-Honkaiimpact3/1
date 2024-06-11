@@ -24,7 +24,7 @@ hobbies = st.multiselect("xp:",
                           '宵宫',  
                           '纳西妲',  
                           '大伟哥'])
-if '神里凌华' in hobbies:  
+if '神里绫华' in hobbies:  
     st.success("我是神里绫华的狗")  
 elif '宵宫' in hobbies:  
     st.success("有品")  
