@@ -1,3 +1,4 @@
+pip install sklearn
 import pandas as pd
 import sklearn
 from sklearn.feature_extraction.text import TfidfVectorizer
